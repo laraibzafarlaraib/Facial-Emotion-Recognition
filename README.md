@@ -1,4 +1,4 @@
-# 😃 Emotion Recognition from Facial Expressions Using Deep Learning
+# Emotion Recognition from Facial Expressions Using Deep Learning
 
 **Team Members**  
 👩‍💻 BSDSF22M022 – Mubashra Iftikhar  
